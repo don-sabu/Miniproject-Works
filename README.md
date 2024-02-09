@@ -1,5 +1,7 @@
 # Mini Project
 
+This repository can be used to collaborate the rough coding works and documentation works. Instead of sending files through other apps, we can use the below steps for seamless operations
+
 Everyone should use their own folders to carryout works regarding the projects. Copy the existing works to the folders as well.
 
 
@@ -39,7 +41,7 @@ Everyone should use their own folders to carryout works regarding the projects. 
 
     Use this for pushing first time:
     ```shell
-    git push -u origin <branch-name> 
+    git push -u origin master 
     ```
     After that, use:
     ```shell
