@@ -18,7 +18,7 @@ output_width = min(int(img.shape[1]*scale),int(img.shape[0]*scale))
 output_hight = max(int(img.shape[1]*scale),int(img.shape[0]*scale))
 
 #cv2.namedWindow('Output', cv2.WINDOW_NORMAL)
-#cv2.resizeWindow('Output', output_width, output_hight)
+cv2.resizeWindow('Output', output_width, output_hight)
 
 def empty(a):
     pass
