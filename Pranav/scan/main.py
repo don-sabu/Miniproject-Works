@@ -4,7 +4,7 @@ import utlis
  
  
 ########################################################################
-webCamFeed = True
+webCamFeed = False
 pathImage = "1.jpg"
 cap = cv2.VideoCapture(0)
 cap.set(10,160)
