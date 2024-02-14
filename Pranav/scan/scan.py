@@ -34,6 +34,7 @@ for d in doc:
 
 warped = four_point_transform(org, doc.reshape(4, 2) * ratio)
 warped = cv2.cvtColor(warped, cv2.COLOR_BGR2GRAY)
+cv2.imwrite('warpped.jpg', warped) 
 
 
 T = threshold_local(warped, 11, offset = 10, method = "gaussian")
