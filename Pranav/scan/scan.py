@@ -46,6 +46,7 @@ cv2.waitKey(0)
 warped = four_point_transform(org, doc.reshape(4, 2) * ratio)
 warped = cv2.cvtColor(warped, cv2.COLOR_BGR2GRAY)
 cv2.imshow("Warped", imutils.resize(warped, height = 650))
+cv2.imwrite('warped.jpg', warped) 
 cv2.waitKey(0)
 
 
