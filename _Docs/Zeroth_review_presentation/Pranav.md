@@ -15,7 +15,7 @@
 
     1.	Data Type: The data primarily consists of handwritten marks written by teachers on answer sheets.
 
-    2.	Variability: The handwriting styles may vary significantly among different teachers, requiring robust preprocessing techniques for accurate extraction.
+    2.	Variability: The handwriting styles may vary significantly among different teachers, requiring robust preprocessing techniques for accurate data extraction.
 
     3.	Layout: The marks are organized in a structured layout, aligned in rows and columns corresponding to different questions or sections of the answer sheet.
 
