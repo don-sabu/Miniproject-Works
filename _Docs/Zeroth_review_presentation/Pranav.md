@@ -17,6 +17,6 @@
 
     2.	Variability: The handwriting styles may vary significantly among different teachers, requiring robust preprocessing techniques for accurate extraction.
 
-    3.	Layout: The marks are organized in a structured layout, aligned in columns or rows corresponding to different questions or sections of the answer sheet.
-    
+    3.	Layout: The marks are organized in a structured layout, aligned in rows and columns corresponding to different questions or sections of the answer sheet.
+
     4.	Dataset Size: The dataset comprises enough samples to train and validate the custom model effectively, ensuring robust performance across different writing styles.
