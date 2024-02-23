@@ -1,50 +1,26 @@
 # Mini Project
 
-This repository can be used to collaborate the rough coding works and documentation works. Instead of sending files through other apps, we can use the below steps for seamless operations
+### ZEROTH REVIEW PRESENTATION
 
-Everyone should use their own folders to carryout works regarding the projects. Copy the existing works to the folders as well.
+- [ ] Introduction
+- [ ] Where they left of
+- [ ] Our Objectives
+- [ ] How are we gonna achieve the objectives?
+- [ ] Quick technical glimpse of each block
+- [ ] Current status
+- [ ] Project Timeline
+- [ ] References
 
 
+### PROJECT PROGRESS
 
-### Instructions
+#### Primary
+- [ ] Warp the answer sheet 
+- [ ] Extract table
+- [ ] OCR Model
 
-1. Clone the repository
-
-    ```shell
-    git clone https://github.com/don-sabu/Miniproject-Works.git
-    ```
-2. Make some changes in your folder
-    
-    Note: Do not make any changes in other folders as it might result in merge conflicts. You could copy files from other folders to yours.
-
-3. Add files to staging area
-    
-    After making changes,
-    ```shell
-    git add .
-    ```
-
-4. Commit changes
-    ```shell
-    git commit -m "<commit-message>"
-    ```
-
-5. Pull Changes
-
-    While you edited your files, others might also edited theirs. So to load that changes to your local system, you must pull from repository
-    ```shell
-    git pull
-    ```
-6. Push changes
-
-    Push your work to github
-
-    Use this for pushing first time:
-    ```shell
-    git push -u origin master 
-    ```
-    After that, use:
-    ```shell
-    git push
-    ```
-7. Repeat steps 2 - 6
+#### Secondary
+- How this is presented as a final product (App)
+- Features for convenience
+    - Showing the detected marks in a table format same as the answer sheet
+    - Showing the total marks
