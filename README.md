@@ -5,7 +5,7 @@
 - [ ] Introduction
 - [ ] Where they left of
 - [ ] Our Objectives
-- [ ] How are we gonna achieve the objectives?
+- [x] How are we gonna achieve the objectives?
 - [ ] Quick technical glimpse of each block
 - [ ] Current status
 - [ ] Project Timeline
