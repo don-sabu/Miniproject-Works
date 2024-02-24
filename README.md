@@ -4,7 +4,7 @@
 
 - [ ] Introduction
 - [ ] Where they left of
-- [ ] Our Objectives
+- [x] Our Objectives
 - [x] How are we gonna achieve the objectives?
 - [ ] Quick technical glimpse of each block
 - [ ] Current status
