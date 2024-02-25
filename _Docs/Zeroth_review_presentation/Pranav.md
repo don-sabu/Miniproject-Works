@@ -8,7 +8,9 @@
 
     4. Integration with Existing Systems: Since the output is in CSV format, it enables seamless integration with existing educational software or databases.
 
-    5. Scalability: Develop a solution that can scale to handle large volumes of answer sheets efficiently, accommodating the needs of educational institutions with varying numbers of students.
+    5. Scalability: Develop a solution that can scale to handle large volumes of answer sheets efficiently, accommodating the needs of educational institutions with varying numbers of students
+    
+    6. Enhanced Mark Detection: Improve mark recognition capabilities to include fractions such as halves and quarters, building upon previous work done by our previous batch.
 
 **Data Description**
 
