@@ -1,15 +1,12 @@
 # Mini Project
 
-### ZEROTH REVIEW PRESENTATION
+### DATASET PRE PROCESSING
 
-- [ ] Introduction
-- [ ] Where they left of
-- [x] Our Objectives
-- [x] How are we gonna achieve the objectives?
-- [ ] Quick technical glimpse of each block
-- [ ] Current status
-- [ ] Project Timeline
-- [ ] References
+1. Organize each data class into folders
+2. Convert the existing resolution to square resolution
+   - Crop the long side from both side to match the shortest side
+3. Standardize the resolution (say 49x49)
+4. May add threshold after converting to greyscale
 
 
 ### PROJECT PROGRESS
