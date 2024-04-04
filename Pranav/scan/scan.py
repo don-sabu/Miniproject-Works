@@ -1,10 +1,8 @@
 # import the necessary packages
-##TRANSFORM
 import numpy as np
 import cv2
 import imutils
 from skimage.filters import threshold_local
-
 
 def order_points(pts):
 	# initialzie a list of coordinates that will be ordered
@@ -67,8 +65,6 @@ def four_point_transform(image, pts):
 	# return the warped image
 	return warped
 
-
-##############################################
 
 
 img_path = '3.jpg'
