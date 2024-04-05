@@ -65,8 +65,6 @@ def four_point_transform(image, pts):
 	# return the warped image
 	return warped
 
-
-
 img_path = '3.jpg'
 big_img = cv2.imread(img_path)
 
